@@ -5,3 +5,4 @@ Notify.pm
 README
 test.pl
 upnotify-demo.pl
+META.yml                                 Module meta-data (added by MakeMaker)

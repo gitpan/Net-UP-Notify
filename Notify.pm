@@ -5,7 +5,7 @@ use vars qw($VERSION);
 use LWP::UserAgent;
 
 
-$VERSION = '1.00';
+$VERSION = '1.01';
 
 sub new {
   my $package = shift;
@@ -104,7 +104,7 @@ Paul Timmins, E<lt>paul@timmins.netE<gt>
                                                                                 
 =head1 SEE ALSO
                                                                                 
-L<perl>. L<LWP::UserAgent>.
+L<perl>. L<LWP::UserAgent>. L<LWP::Request>.
                                                                                 
 =cut
 

@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 #
 #up-notify demo example program
-#Copyright (C) 2003 Paul Timmins, All rights reserved. 
+#Copyright (C) 2004 Paul Timmins, All rights reserved. 
 #This program is free software; you can redistribute it and/or 
 #modify it under the same terms as Perl itself.
 #

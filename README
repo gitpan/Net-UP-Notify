@@ -1,4 +1,4 @@
-Net::UP::Notify version 0.01
+Net::UP::Notify version 1.01 
 ======================
 
 The README is used to introduce the module and provide instructions on
@@ -20,7 +20,9 @@ now, I can only support the sending of Net Alerts.
 
 REVISION HISTORY
 
+	1.01 release, Fixed dependency list in Makefile.PL;
 	1.0 release, initial release;
+
 
 INSTALLATION
 
@@ -39,5 +41,5 @@ This module requires these other modules and libraries:
 
 COPYRIGHT AND LICENCE
 
-Copyright (C) 2003 Paul Timmins, All rights reserved. This program is free software; you can redistribute it and/or modify it under the same terms as Perl itself. 
+Copyright (C) 2004 Paul Timmins, All rights reserved. This program is free software; you can redistribute it and/or modify it under the same terms as Perl itself. 
 
